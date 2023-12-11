@@ -66,7 +66,7 @@ It is important to keep these limitations in mind when interpreting the results 
 ## Setup
 1. Clone the repository to your local machine:
   ```
-  git clone https://github.com/DiveHQ-Octernships/dive-ml-engineering-octernship-Nayanjit-Sarkar.git
+ https://github.com/Nayanjit-Sarkar/Meetings-Made-Easy.git
   ```
 
 2. Install the required dependencies by running the following command:
